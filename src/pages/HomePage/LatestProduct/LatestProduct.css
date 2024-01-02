@@ -1,0 +1,13 @@
+.discount {
+  color: #da2000;
+}
+
+.mrp {
+  color: #767676;
+  text-decoration-line: line-through;
+}
+
+.thumbnail-image {
+  width: 255px;
+  height: 300px;
+}

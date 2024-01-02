@@ -1,0 +1,13 @@
+.hero-title {
+  font-weight: 700;
+}
+.hero-subtitle {
+  font-weight: 500;
+}
+.banner {
+  width: 100%;
+  height: 300px;
+}
+.text-shadow {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}

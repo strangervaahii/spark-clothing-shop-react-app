@@ -1,0 +1,26 @@
+.discount {
+  color: #da2000;
+}
+
+.mrp {
+  color: #767676;
+  text-decoration-line: line-through;
+}
+
+.description {
+  color: #767676;
+}
+
+.thumbnail-image {
+  width: 255px;
+  height: 300px;
+}
+
+#sortBy {
+  float: right;
+  margin-left: 0px;
+}
+
+#productFound {
+  margin-right: 450px;
+}

@@ -1,0 +1,666 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "/assets/images/kids-wear/kid1.jpg",
+      "imgAltText": "Girls Midi Knee Length",
+      "name": "Hopscotch",
+      "category": "kids",
+      "description": "Girls Midi Knee Length",
+      "cost": 1099,
+      "maxRetailPrice": 1499,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        },
+        {
+          "id": 2,
+          "name": "yasin",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hello",
+          "rating": "one"
+        },
+        {
+          "id": 2831,
+          "name": "virat",
+          "email": "virat@gmail.com",
+          "message": "adfadsf",
+          "phone": 34141234132,
+          "rating": "Good"
+        },
+        {
+          "id": 3597,
+          "name": "virat",
+          "email": "virat@gmail.com",
+          "message": "hello msd",
+          "phone": 1341234,
+          "rating": "Medium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/images/kids-wear/kid2.jpg",
+      "imgAltText": "Girls Party Top Jean",
+      "name": "Arshia fashions",
+      "category": "kids",
+      "description": "Girls Party Top Jean",
+      "cost": 999,
+      "maxRetailPrice": 2499,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        },
+        {
+          "id": 2,
+          "name": "yasin",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hello",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "/assets/images/kids-wear/kid3.jpg",
+      "imgAltText": "Girls Midi Knee Length",
+      "name": "WishKaro",
+      "category": "kids",
+      "description": "Girls Midi Knee Length",
+      "cost": 519,
+      "maxRetailPrice": 2299,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "/assets/images/kids-wear/kid4.png",
+      "imgAltText": "Girls full hooded ",
+      "name": "Alon Jones",
+      "category": "kids",
+      "description": "Girls full hooded ",
+      "cost": 1699,
+      "maxRetailPrice": 1999,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "/assets/images/kids-wear/kid5.jpg",
+      "imgAltText": "Boys full hooded ",
+      "name": "Roadster",
+      "category": "kids",
+      "description": "Boys full hooded ",
+      "cost": 674,
+      "maxRetailPrice": 1499,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "/assets/images/kids-wear/kid6.jpg",
+      "imgAltText": "Boys Regular Fit",
+      "name": "TRIPR",
+      "category": "kids",
+      "description": "Boys Regular Fit",
+      "cost": 939,
+      "maxRetailPrice": 1399,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imageUrl": "/assets/images/kids-wear/kid7.jpg",
+      "imgAltText": "Boys Cotton Casual shirt",
+      "name": "Tiny Brezy",
+      "category": "kids",
+      "description": "Boys Cotton Casual shirt",
+      "cost": 974,
+      "maxRetailPrice": 1099,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 7,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "imageUrl": "/assets/images/kids-wear/kid8.jpg",
+      "imgAltText": "Boys full sleeved hooded ",
+      "name": "Billion",
+      "category": "kids",
+      "description": "Boys full sleeved hooded ",
+      "cost": 1674,
+      "maxRetailPrice": 1799,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 8,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "imageUrl": "/assets/images/mens-wear/men1.jpg",
+      "imgAltText": "Men Cotton Casual shirt",
+      "name": "Roadster",
+      "category": "men",
+      "description": "Men Cotton Casual shirt",
+      "cost": 674,
+      "maxRetailPrice": 1499,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "imageUrl": "/assets/images/mens-wear/men4.jpg",
+      "imgAltText": "Men block grey shirt",
+      "name": "PUMA",
+      "category": "men",
+      "description": "Men block grey shirt",
+      "cost": 999,
+      "maxRetailPrice": 1199,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "imageUrl": "/assets/images/mens-wear/men5.jpg",
+      "imgAltText": "Men slim Mid Blue Jean",
+      "name": "BEING HUMAN",
+      "category": "men",
+      "description": "Men slim Mid Blue Jean",
+      "cost": 900,
+      "maxRetailPrice": 1009,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "imageUrl": "/assets/images/mens-wear/men4.jpg",
+      "imgAltText": "Men block grey shirt",
+      "name": "PUMA",
+      "category": "men",
+      "description": "Men block grey shirt",
+      "cost": 999,
+      "maxRetailPrice": 1199,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "imageUrl": "/assets/images/mens-wear/men5.jpg",
+      "imgAltText": "Men slim Mid Blue Jean",
+      "name": "BEING HUMAN",
+      "category": "men",
+      "description": "Men slim Mid Blue Jean",
+      "cost": 900,
+      "maxRetailPrice": 1009,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "imageUrl": "/assets/images/mens-wear/men6.jpg",
+      "imgAltText": "Men Mid Rise Black jean",
+      "name": "PODGE",
+      "category": "men",
+      "description": "Men Mid Rise Black jean",
+      "cost": 499,
+      "maxRetailPrice": 1749,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "imageUrl": "/assets/images/womens-wear/women3.jpg",
+      "imgAltText": "Women Cotton Casual Solid Top",
+      "name": "Fashionista",
+      "category": "women",
+      "description": "Women Cotton Casual Solid Top",
+      "cost": 674,
+      "maxRetailPrice": 1499,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "imageUrl": "/assets/images/womens-wear/women2.jpg",
+      "imgAltText": "Women Regular Embroidered Dress",
+      "name": "Threads",
+      "category": "women",
+      "description": "Women Regular Embroidered Dress",
+      "cost": 987,
+      "maxRetailPrice": 1099,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "imageUrl": "/assets/images/womens-wear/women4.jpg",
+      "imgAltText": "Women Kanjivaram Silk Blend",
+      "name": "Tracks",
+      "category": "women",
+      "description": "Women Kanjivaram Silk Blend",
+      "cost": 856,
+      "maxRetailPrice": 987,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "imageUrl": "/assets/images/womens-wear/women5.jpg",
+      "imgAltText": "Women Ethnic Jacket",
+      "name": "Trends",
+      "category": "women",
+      "description": "Women Ethnic Jacket",
+      "cost": 1399,
+      "maxRetailPrice": 1500,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "imageUrl": "/assets/images/womens-wear/women6.jpg",
+      "imgAltText": "Women Full SLeeve Hooded Neck",
+      "name": "Belle Chic",
+      "category": "women",
+      "description": "Women Full SLeeve Hooded Neck",
+      "cost": 456,
+      "maxRetailPrice": 999,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "imageUrl": "/assets/images/womens-wear/women4.jpg",
+      "imgAltText": "Women Tops and Palazzo set",
+      "name": "Aesthetics",
+      "category": "women",
+      "description": "Women Tops and Palazzo set",
+      "cost": 1099,
+      "maxRetailPrice": 1400,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "imageUrl": "/assets/images/womens-wear/women3.jpg",
+      "imgAltText": "Women Kurta Pant and Dupatta Silk",
+      "name": "Suit Up!",
+      "category": "women",
+      "description": "Women Kurta Pant and Dupatta Silk",
+      "cost": 1365,
+      "maxRetailPrice": 1899,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 7,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "imageUrl": "/assets/images/womens-wear/women2.jpg",
+      "imgAltText": "Women Skirt Set",
+      "name": "Cloud 9",
+      "category": "women",
+      "description": "Women Skirt Set",
+      "cost": 657,
+      "maxRetailPrice": 999,
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 30,
+      "bestSellerRanking": 8,
+      "featured": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "abc",
+          "email": "contact@sparkclothing.com",
+          "phone": 987655432,
+          "message": "hii",
+          "rating": "one"
+        }
+      ]
+    }
+  ],
+  "contactData": [
+    {
+      "id": "1",
+      "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+      "phone": [
+        "(+91) 987 654 3210",
+        "987 654 3211"
+      ],
+      "email": "contact@sparkclothing.com"
+    }
+  ],
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    },
+    {
+      "name": "Abdul Kalam sir",
+      "email": "apj@gmail.com",
+      "phone": 6379923495,
+      "message": "adsfads",
+      "id": 2
+    },
+    {
+      "name": "Abdul Kalam sir",
+      "email": "apj@gmail.com",
+      "message": "asdf",
+      "id": 3
+    },
+    {
+      "name": "Abdul Kalam sir",
+      "email": "apj@gmail.com",
+      "message": "fasd",
+      "id": 4
+    },
+    {
+      "name": "Yasin L",
+      "email": "yasinlathi@gmail.com",
+      "message": "adfasdfasdf",
+      "id": 5
+    },
+    {
+      "name": "Yasin",
+      "email": "yasin@gmail.com",
+      "message": "hello",
+      "id": 6
+    },
+    {
+      "name": "31234134",
+      "email": "adfad@fasdfadf",
+      "message": "adfasdf",
+      "id": 7
+    },
+    {
+      "name": "31234134",
+      "email": "adfad@fasdfadf",
+      "message": "asdfasdf",
+      "id": 8
+    },
+    {
+      "name": "31234134",
+      "email": "adfad@fasdfadf",
+      "message": "adfsa",
+      "id": 9
+    },
+    {
+      "name": "31234134",
+      "email": "adfad@fasdfadf",
+      "message": "asdfasd",
+      "id": 10
+    },
+    {
+      "name": "virat",
+      "email": "virat@gmail.com",
+      "message": "ee ssaaala",
+      "id": 11
+    }
+  ]
+}

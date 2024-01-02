@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutUsPage component has right snapshot with all requirements completed 1`] = `
+Array [
+  <div
+    className="banner bg-primary"
+  >
+    <div
+      className="container text-white text-center my-0 py-5"
+    >
+      <p
+        className="fs-1 hero-title mb-3"
+      >
+        About Us
+      </p>
+      <p
+        className="fs-4 hero-subtitle mb-3"
+      >
+        We have the capabilities and experience to deliver the products you need to move forward.
+      </p>
+      <button
+        className="btn btn-light shadow-none px-5"
+        type="button"
+      >
+        <a
+          className="text-black link-underline-light fs-4"
+          href="#/history"
+          onClick={[Function]}
+        >
+          History
+        </a>
+      </button>
+    </div>
+  </div>,
+  <section>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-md-3 mt-2 border-0"
+        >
+          <div
+            className="card h-100"
+          >
+            <div
+              className="card-body"
+            >
+              <img
+                alt="mission"
+                className="card-img-top"
+                src="./assets/images/mission.png"
+              />
+              <i
+                className="fa-solid fa-bullseye-arrow"
+              />
+              <h3
+                className="card-title text-center font-weight-bold"
+              >
+                Mission
+              </h3>
+              <p
+                className="card-text"
+              >
+                Empowering customers worldwide with easy access to high-quality products at competitive prices, delivered with exceptional customer service.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-2 border-0"
+        >
+          <div
+            className="card h-100"
+          >
+            <div
+              className="card-body"
+            >
+              <img
+                alt="vision"
+                className="card-img-top my-1"
+                src="./assets/images/vision.jpg"
+              />
+              <h3
+                className="card-title text-center font-weight-bold"
+              >
+                Vision
+              </h3>
+              <p
+                className="card-text"
+              >
+                To become the most trusted and preferred online shopping destination for customers, offering a seamless and personalized shopping experience that exceeds expectations, and fostering long-term relationships based on trust and loyalty.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-2 border-0"
+        >
+          <div
+            className="card h-100"
+          >
+            <div
+              className="card-body"
+            >
+              <img
+                alt="values"
+                className="card-img-top my-1"
+                src="./assets/images/values.png"
+              />
+              <h3
+                className="card-title text-center font-weight-bold"
+              >
+                Values
+              </h3>
+              <p
+                className="card-text"
+              >
+                At our core, we value transparency, integrity, and innovation, and are committed to providing a safe and secure platform that prioritizes the needs and satisfaction of our customers, employees, and partners.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-2 border-0"
+        >
+          <div
+            className="card h-100"
+          >
+            <div
+              className="card-body"
+            >
+              <img
+                alt="contact"
+                className="card-img-top my-1"
+                src="./assets/images/contact.png"
+              />
+              <h3
+                className="card-title text-center font-weight-bold"
+              >
+                Contact
+              </h3>
+              <p
+                className="card-text"
+              >
+                Need assistance? Our customer support team is available 24/7 to assist with any questions or concerns. Contact us via phone, email, or live chat to get the help you need, when you need it.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>,
+]
+`;
